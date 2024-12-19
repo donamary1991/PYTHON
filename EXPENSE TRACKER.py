@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=xV0B1Y0tem0
+
 class Expense:
     def __init__(self,date,description,amount):
         self.date=date
